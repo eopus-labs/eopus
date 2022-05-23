@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "types",
+    "config",
+    "network"
+]
